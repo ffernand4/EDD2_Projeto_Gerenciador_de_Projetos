@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "EDD2_Projeto_Gerenciador_de_Projetos/1.0.0": {
+        "runtime": {
+          "EDD2_Projeto_Gerenciador_de_Projetos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EDD2_Projeto_Gerenciador_de_Projetos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
